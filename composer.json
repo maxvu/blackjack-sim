@@ -1,0 +1,17 @@
+{
+    "name": "maxvu/blackjack-sim",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Vu",
+            "email": "maxwell.vu@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "maxvu\\blackjackSim\\" : "src/"
+        }
+    },
+    "require": {}
+}
